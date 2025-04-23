@@ -1,26 +1,27 @@
-let firstFavNumber = 500;
-let secondFavNumber = 1220;
+// defining the variable first
+let firstNumber = 500;
+let secondNumber = 1220;
 
 // loose equal ==
-console.log(firstFavNumber == secondFavNumber);
+console.log(firstNumber == secondNumber);
 
 // strict equal ===
-console.log(firstFavNumber === secondFavNumber);
+console.log(firstNumber === secondNumber);
 
 // loose non equal !=
-console.log(firstFavNumber != secondFavNumber);
+console.log(firstNumber != secondNumber);
 
 // strict non equal !==
-console.log(firstFavNumber !== secondFavNumber);
+console.log(firstNumber !== secondNumber);
 
 // less than <
-console.log(firstFavNumber < secondFavNumber);
+console.log(firstNumber < secondNumber);
 
 // greater than >
-console.log(firstFavNumber > secondFavNumber);
+console.log(firstNumber > secondNumber);
 
 // less than or equal to <=
-console.log(firstFavNumber <= secondFavNumber);
+console.log(firstNumber <= secondNumber);
 
 // greater than or equal to >=
-console.log(firstFavNumber >= secondFavNumber);
+console.log(firstNumber >= secondNumber);
