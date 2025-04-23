@@ -2,7 +2,7 @@
 let favActorFirstName = "Steve";
 // favActorLastName
 let favActorLastName = "harrington";
-// favActorFirstName + favActorLastName;
+// combination of the two variable
 let favActorName = favActorFirstName + favActorLastName;
 // console.log(favActorName.toUpperCase());
 console.log(favActorName.toUpperCase());
