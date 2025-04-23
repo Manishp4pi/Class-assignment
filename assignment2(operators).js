@@ -1,18 +1,18 @@
 // Basic Maths Operator (+, -, %, /, *, power)
-let firstFavNumber = 10;
-let secondFavNumber = 7;
+let firstNumber = 10;
+let secondNumber = 7;
 
 // addition +
-console.log(firstFavNumber + secondFavNumber);
+console.log(firstNumber + secondNumber);
 
 // substraction -
-console.log(firstFavNumber - secondFavNumber);
+console.log(firstNumber - secondNumber);
 
 // find remainder %
-console.log(firstFavNumber % secondFavNumber);
+console.log(firstNumber % secondNumber);
 
 // find quotient /
-console.log(firstFavNumber / secondFavNumber);
+console.log(firstNumber / secondNumber);
 
 // Power **
-console.log(secondFavNumber ** 3);
+console.log(secondNumber ** 3);
